@@ -29,8 +29,10 @@ Here are some of the technologies and tools I work with:
 
 </div>
 
-## Contributions
+## 📊 My 3D Contributions
 
-![svg](./profile-3d-contrib/profile-gitblock.svg)
+<div align="center">
+  <img src="./profile-3d-contrib/profile-current.svg" alt="3D Contributions Hourly" />
+</div>
 
 </div>
