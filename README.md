@@ -3,9 +3,8 @@
 
 ## What I Do
 
-I am a Front-end developer capable of developing and deploying:
-
-- Web applications
+I am a Front-end Developer specializing in building and deploying scalable web applications.  
+With a strong focus on performance, UI/UX, and clean architecture, I enjoy turning complex problems into simple, elegant solutions.
 
 ### Technologies and Tools
 
