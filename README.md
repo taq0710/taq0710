@@ -28,8 +28,6 @@ Here are some of the technologies and tools I work with:
 
 </div> -->
 
-## 📊 My 3D Contributions
-
 <div align="center">
   <img src="./profile-3d-contrib/profile-current.svg" alt="3D Contributions Hourly" />
 </div>
